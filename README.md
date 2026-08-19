@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- ══════════════════ CUSTOM BANNER ══════════════════ -->
+<!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
 
-<img src="./header_banner.jpg" width="100%" alt="Sanjay G — VLSI Design • Semiconductor Engineering • Edge AI" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0b3d0b,60:145214,100:238636&height=250&section=header&text=%E2%9A%99%EF%B8%8F%20SANJAY%20G&fontSize=72&fontColor=e6edf3&fontAlignY=32&desc=VLSI%20Design%20%E2%80%A2%20Semiconductor%20Engineering%20%E2%80%A2%20Edge%20AI&descSize=20&descColor=7ee787&descAlignY=54&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=7EE787&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=90&lines=%F0%9F%94%AC+RTL+%E2%86%92+Synthesis+%E2%86%92+P%26R+%E2%86%92+GDSII+%E2%86%92+Silicon;%F0%9F%A7%AC+CMOS+%C2%B7+STA+%C2%B7+Physical+Design+%C2%B7+Deep+Learning+on+Edge" alt="Typing SVG" /></a>
@@ -691,10 +689,5 @@ Monsteras · Pothos · Chunky substrates · Moss poles.
 
 </div>
 
-<!-- FOOTER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-<sub>⚙️ Designed with silicon precision ⚙️</sub>
-</div>
-
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0b3d0b,60:145214,100:238636&height=120&section=footer" width="100%" />
